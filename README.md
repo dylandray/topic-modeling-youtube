@@ -33,11 +33,9 @@ Pipeline for topic modeling:
 
 ## Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/topic-modeling-youtube.git
-cd topic-modeling-youtube
+> Want to contribute? Fork the repository first, then follow the steps below.
 
+```bash
 # Create and activate virtual environment
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
