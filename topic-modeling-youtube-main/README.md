@@ -175,9 +175,8 @@ youtube-comments-scraper/
 - [x] Channel metadata (subscribers, description)
 - [x] Web interface with tabs
 - [x] Data insights dashboard
-- [ ] NLP preprocessing pipeline
-- [ ] LDA/NMF implementation
-- [ ] BERTopic integration
+- [x] NLP preprocessing pipeline
+- [x] BERTopic integration
 - [ ] Interactive visualization
 - [ ] Results export
 
