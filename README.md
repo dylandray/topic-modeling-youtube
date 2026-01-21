@@ -1,6 +1,3 @@
-# YouTube Topic Modeling
-Project worked in cooperation with Anis Ayari (Youtube Defend Intelligence (200k subscribers and AI Engineer, founder of Whiteship)
-
 > **Work in Progress** - This project is under active development. Some features may be incomplete or subject to change.
 Contains a Flask application to extract YouTube comments and perform topic modeling analysis.
 
@@ -179,7 +176,6 @@ youtube-comments-scraper/
 - [x] BERTopic integration
 - [x] Interactive visualization
 - [ ] Results export
-
 ## License
 
 MIT
